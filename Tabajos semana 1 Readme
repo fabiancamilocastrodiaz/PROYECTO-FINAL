@@ -1,0 +1,37 @@
+# Taller Semana 1 - POO
+
+**Estudiante:** Fabian  
+**Curso:** Programación Orientada a Objetos  
+**Universidad:** Distrital Francisco José de Caldas  
+**Año:** 2026
+
+## Descripción
+Este repositorio contiene los ejercicios del taller de la Semana 1, enfocado en los fundamentos de la Programación Orientada a Objetos en Java.
+
+## Archivos incluidos
+
+### 1. Estudiante.java
+Clase que modela un estudiante con atributos como nombre, edad, carrera y materias inscritas. Incluye métodos para:
+- Presentarse
+- Inscribir materias
+- Estudiar (Paso 10)
+
+### 2. CalculadoraNotas.java
+Clase que calcula el promedio de notas de estudiantes y determina si aprueban o no (nota mínima: 3.0).
+
+## Conceptos aplicados
+- Clases y objetos
+- Encapsulación (private/public)
+- Constructores
+- Uso de `this`
+- ArrayList
+- Métodos
+- Condicionales y bucles
+
+## Cómo ejecutar
+```bash
+javac Estudiante.java
+java Estudiante
+
+javac CalculadoraNotas.java
+java CalculadoraNotas
